@@ -12,8 +12,14 @@
 
 2. git clone --depth=1 https://github.com/nhnacademy/test.git
 
-3. 아래 순서대로 TODO를 찾아다니면서 코드를 채우면 됩니다.
+3. git branch <학번>
+
+4. 아래 순서대로 TODO를 찾아다니면서 코드를 채우면 됩니다. TODO 목록을 보여주는 기능을 쓰세요!
 
 IteratorTest.java > RangeTest.java -> MathxTest.java -> MonteCarloTest.java
+
+    - 자주 commit 하세요. 실수하기 쉬워요.
+
+5. 최종 push, 두 번 이상 push하면 안됩니다. TA 선생님들 지도에 따라 주세요.
 
 도움이 되셨기를 바랍니다.
